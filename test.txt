@@ -6,5 +6,5 @@ ARG="-s staging"
 
 
 
-
+ARG="$ARG b2"
 
